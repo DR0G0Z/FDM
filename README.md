@@ -1,1 +1,1 @@
-# FDM for LIM
+# FDM for Linear Induction Motor(LIM).
