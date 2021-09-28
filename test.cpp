@@ -39,8 +39,11 @@ double t=0;
 
 void display(vector<vector<complex< double>>>v, int row,int col){
     for( int i{0};i<row;i++){
+        cout<<"J = "<<46-i<<" : "<<endl;
         for( int j{0};j<col;j++){
         cout<<v[i][j];}
+        cout<<endl;
+        cout<<endl;
         cout<<endl;
     }
     cout<<endl;
